@@ -3,7 +3,6 @@ package es.upm.aled.lab2.kinematics;
 import java.util.ArrayList;
 import java.util.List;
 
-// TODO: Implemente la clase
 public class Segment {
 	
 	private double length;
